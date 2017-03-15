@@ -1,0 +1,572 @@
+(g) Graphics Thread Got Change: 0 -1 0!
+(g) Graphics Thread Repainting All!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 11 10 98!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 12 10 99!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 13 10 109!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 10 66!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 11 121!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 12 114!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 13 103!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 14 98!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 15 99!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 16 109!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 17 66!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 18 121!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 19 114!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 20 103!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 21 98!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 22 99!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 23 109!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 24 66!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 25 121!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 26 114!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 27 103!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 28 98!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 29 99!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 30 109!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 31 66!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 32 121!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 13 32 114!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 12 32 103!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 12 31 98!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 12 30 99!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 12 29 109!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 11 29 66!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 10 29 121!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 9 29 114!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 8 29 103!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 7 29 98!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 7 30 99!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 7 31 109!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 7 32 66!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 7 33 121!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 7 34 114!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 7 35 103!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 7 36 98!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 7 37 99!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 8 37 109!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 9 37 66!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 10 37 121!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 11 37 114!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 12 37 103!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 13 37 98!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 37 99!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 15 37 109!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 16 37 66!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 16 36 121!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 17 36 114!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 18 36 103!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 18 37 98!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 18 38 99!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 18 39 109!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 19 39 66!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 20 39 121!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 39 114!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 22 39 103!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 23 39 98!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 24 39 99!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 25 39 109!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 26 39 66!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 27 39 121!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 28 39 114!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 29 39 103!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 29 38 98!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 29 37 99!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 29 36 109!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 29 35 66!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 29 34 121!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 29 33 114!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 29 32 103!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 29 31 98!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 29 30 99!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 29 29 109!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 28 29 66!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 27 29 121!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 26 29 114!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 25 29 103!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 24 29 98!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 23 29 99!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 22 29 109!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 22 30 66!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 22 31 121!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 31 114!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 30 103!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 29 98!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 28 99!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 27 109!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 26 66!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 25 121!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 24 114!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 23 103!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 22 98!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 21 99!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 20 109!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 19 66!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 18 121!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 17 114!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 16 103!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 15 98!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 14 99!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 13 109!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 12 66!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 11 121!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 22 11 114!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 23 11 103!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 23 10 98!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 23 9 99!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 23 8 109!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 23 7 66!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 22 7 121!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 22 6 114!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 6 103!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 21 5 98!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 20 5 99!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 20 4 109!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 19 4 66!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 18 4 121!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 18 3 114!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 17 3 103!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 16 3 98!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 16 4 99!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 15 4 109!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 15 5 66!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 5 121!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 14 6 114!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 13 6 103!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 13 7 98!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 12 7 99!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 12 8 109!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 11 8 66!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 11 9 121!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 11 10 114!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 11 11 103!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 11 12 98!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
+(g) Graphics Thread Got Change: 11 13 99!
+(g) Graphics Change calling pixel_set!
+(g) Graphics Change calling Curses Refresh
+(g) Graphics Thread Waiting...
